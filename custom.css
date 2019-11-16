@@ -29,7 +29,7 @@
 */
 .monaco-editor .findMatch,
 .monaco-editor .selectionHighlight {
-  border: 1px solid #ffffff;
+  border: 1px solid white;
   border-radius: 2px;
   background: transparent;
 }
