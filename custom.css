@@ -1,5 +1,5 @@
 .monaco-shell {
-  font-family: "Dank Mono,Operator Mono, "Inconsolata";
+  font-family: "Dank Mono",Operator Mono, "Inconsolata" !important;
 }
 
 /* This makes the dirty tab circle yellow */
